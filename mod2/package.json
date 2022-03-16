@@ -1,0 +1,19 @@
+{
+  "name": "dicoding-backend",
+  "version": "1.0.0",
+  "description": "Silabus Pengenalan ke Back-End : Menjelaskan peran front-end dan back-end, cara client dan server berkomunikasi melalui protokol HTTP, dan arsitektur RESTful API dalam membangun web service. (3 Jam 5 menit)  Dasar-Dasar Node.js untuk Back-End : Mengenal Node.js serta mengetahui dasar dari Node.js seperti global dan process object, modularization, Node Package Manager (NPM), eventing, filesystem, dan teknik stream. (8 Jam)  Membangun Web Service Menggunakan Node.js : Membangun Web Service menggunakan Node.js secara native dan melalui framework Hapi, serta membangun RESTful API sederhana. (9 Jam 43 menit)  Deploy Web Services : Mengenal dan menggunakan Google Compute Engine, mengoperasikan Compute Engine instance melalui SSH, hingga menjalankan RESTful API di Compute Engine instance. (3 Jam 15 menit)  Mengonsumsi dan Menguji RESTful API Menggunakan Postman : Memasang Postman. Mengonsumsi RESTful API untuk tujuan pengujian dan menuliskan skenario uji otomatis menggunakan Postman. (4 Jam 40 menit)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohannajasti/dicoding-membuat-app-backend-gcloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohannajasti/dicoding-membuat-app-backend-gcloud/issues"
+  },
+  "homepage": "https://github.com/ohannajasti/dicoding-membuat-app-backend-gcloud#readme"
+}
